@@ -288,6 +288,7 @@ body {
 .account-subtitle{
   margin: 20px 0;
   font-size: 2rem;
+  font-weight: 400;
 }
 
 .account-body{
@@ -645,9 +646,10 @@ background-repeat: no-repeat;
   /*Account Section*/
   .account-title{
     font-size: 4.2rem;
-    font-weight: 600;
+    font-weight: 400;
     text-align: left;
     margin-top: 160px;
+    padding-top: 150px;
     margin-bottom: 80px;
   }
   .account-title::before{
